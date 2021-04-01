@@ -10,8 +10,8 @@ Nous allons devoir utiliser le paquet : dos2unix, pour les convertir.
 Connectez vous à votre machine en tant que superutilisateur.
 Veuillez copier tout le repertoire "buil_script" dans votre repertoire de connexion.
 Ou vous pouvez le recuperer sur github
-  "git clone https://github.com/rebilno83/build_script"
-
+  "git clone https://github.com/rebilno83/build_script.git"
+  
 Ensuite tapez les commandes : 
   "apt-get install dos2unix"
   "chmod +x ./build_script/user_sudo.sh"
